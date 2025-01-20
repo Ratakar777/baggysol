@@ -1,0 +1,70 @@
+﻿@font-face {
+  font-family: 'Baloo Bhai 2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNighMXc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Baloo Bhai 2';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNhohMXc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Baloo Bhai 2';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNvYmMXc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Baloo Bhai 2';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNs8mMXc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Baloo Bhai 2';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNqgmMXc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6Zjw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmg9f6Zjw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmgzv9Zjw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmgwL9Zjw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Modak';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/modak/v18/EJRYQgs1XtIEsnMH.ttf) format('truetype');
+}

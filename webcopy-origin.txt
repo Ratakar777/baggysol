@@ -1,0 +1,232 @@
+Uri: https://baggysol.site/
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\index.htm
+Content Type: text/html
+
+Uri: https://baggysol.site/baggy/1.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\1.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/10.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\10.jpeg
+Content Type: image/jpeg
+
+Uri: https://baggysol.site/baggy/11.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\11.jpeg
+Content Type: image/jpeg
+
+Uri: https://baggysol.site/baggy/12.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\12.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/13.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\13.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/14.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\14.jpeg
+Content Type: image/jpeg
+
+Uri: https://baggysol.site/baggy/2.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\2.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/3.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\3.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/4.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\4.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/5.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\5.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/6.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\6.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/8.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\8.jpeg
+Content Type: image/jpeg
+
+Uri: https://baggysol.site/baggy/9.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\9.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/abt.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\abt.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/ban.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\ban.png
+Content Type: image/png
+
+Uri: https://baggysol.site/baggy/ban2.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\baggy\ban2.png
+Content Type: image/png
+
+Uri: https://baggysol.site/css/aos.css
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css\aos.css
+Content Type: text/css
+
+Uri: https://baggysol.site/css/bootstrap.min.css
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://baggysol.site/css/responsive.css
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css\responsive.css
+Content Type: text/css
+
+Uri: https://baggysol.site/css/style.css
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css\style.css
+Content Type: text/css
+
+Uri: https://baggysol.site/images/bg-pattern-20percent.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\bg-pattern-20percent.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/copy.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\copy.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/cr.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\cr.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/cr1.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\cr1.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/cr2.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\cr2.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/fav.webp
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\fav.webp
+Content Type: image/webp
+
+Uri: https://baggysol.site/images/footer-btm.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\footer-btm.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/h-f.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\h-f.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/shield-tick.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\shield-tick.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/Telegram.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\Telegram.png
+Content Type: image/png
+
+Uri: https://baggysol.site/images/Twitter.png
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\images\Twitter.png
+Content Type: image/png
+
+Uri: https://baggysol.site/js/aos.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\aos.min.js
+Content Type: application/javascript
+
+Uri: https://baggysol.site/js/bootstrap.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://baggysol.site/js/e7f2043049.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\e7f2043049.js
+Content Type: application/javascript
+
+Uri: https://baggysol.site/js/jquery-3.3.1.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://baggysol.site/js/jquery-3.6.0.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://baggysol.site/js/scripts.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://baggysol.site/js/smartscroll.js
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\js\smartscroll.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500;600;700;800&family=Cuprum:wght@400;500;600;700&family=Modak&display=swap
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500;600;700;800&display=swap
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500;600;700;800&family=Sigmar+One&display=swap
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNhohMXc.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhai2\v28\sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNhohMXc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNighMXc.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhai2\v28\sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNighMXc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNqgmMXc.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhai2\v28\sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNqgmMXc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNs8mMXc.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhai2\v28\sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNs8mMXc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNvYmMXc.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhai2\v28\sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNvYmMXc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhaijaan2/v19/zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TwRTaP4.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhaijaan2\v19\zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TwRTaP4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhaijaan2/v19/zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8Tx2TaP4.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhaijaan2\v19\zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8Tx2TaP4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhaijaan2/v19/zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TxPTaP4.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhaijaan2\v19\zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TxPTaP4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhaijaan2/v19/zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TyjSqP4.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhaijaan2\v19\zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TyjSqP4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baloobhaijaan2/v19/zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TyRSqP4.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\baloobhaijaan2\v19\zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TyRSqP4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6Zjw.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\cuprum\v25\dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6Zjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmg9f6Zjw.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\cuprum\v25\dg45_pLmvrkcOkBnKsOzXyGWTBcmg9f6Zjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmgwL9Zjw.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\cuprum\v25\dg45_pLmvrkcOkBnKsOzXyGWTBcmgwL9Zjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cuprum/v25/dg45_pLmvrkcOkBnKsOzXyGWTBcmgzv9Zjw.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\cuprum\v25\dg45_pLmvrkcOkBnKsOzXyGWTBcmgzv9Zjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEsnMH.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\modak\v18\EJRYQgs1XtIEsnMH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sigmarone/v18/co3DmWZ8kjZuErj9Ta3dk6M.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baggysol.site\s\sigmarone\v18\co3DmWZ8kjZuErj9Ta3dk6M.ttf
+Content Type: font/ttf
+
